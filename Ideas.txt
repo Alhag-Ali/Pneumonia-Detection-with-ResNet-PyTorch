@@ -1,0 +1,14 @@
+4 Meeting mit der Prof.
+	1. Grundlagen (Worum geht's denn, Dataset)
+	2. Implementierung
+	3. Vorläufige Report
+	4. Final Report
+
+Idea: LIME zur Erklärung von Lungenentzundungserkennung auf Röntgenbilder.
+	1. Chest X-Ray Dataset (Pneumonia vs. Normal)
+	2. Training CNN, das Pneumonie erkannt.
+	3. Classifier anwenden.
+	4. LIME-ImageExplainer, welche Bereiche der Lunge waren entscheidend für die Diagnose.
+	5. User Interface.
+
+Links!!!!
